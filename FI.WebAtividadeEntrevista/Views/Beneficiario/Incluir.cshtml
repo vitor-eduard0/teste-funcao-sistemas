@@ -1,0 +1,46 @@
+<div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+        <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+            </button>
+            <h4 class="modal-title" id="modalLabel">Beneficiários</h4>
+        </div>
+        <div class="modal-body">
+            <form id="formBenef" method="post">
+                <div class="row">
+                    <div class="col-md-4">
+                        <input type="hidden" id="hdfIdBenef" />
+                        <div class="form-group">
+                            <label for="CPF">CPF:</label>
+                            <input required="required" type="text" class="form-control CPF" id="CPF" name="CPF" placeholder="Ex.: 010.011.111-00" maxlength="14" />
+                        </div>
+                    </div>
+                    <div class="col-md-5">
+                        <div class="form-group">
+                            <label for="Nome">Nome:</label>
+                            <input required="required" type="text" class="form-control" id="Nome" name="Nome" placeholder="Ex.: João" maxlength="50">
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <button type="submit" id="btnIncluirBenef" class="btn btn-sm btn-success" style="margin-top: 25px;">Incluir</button>
+                        <input type="button" id="btnAlterarBenef" onclick="salvarAlteracaoBenef()" class="btn btn-sm btn-success" style="margin-top: 25px; display: none;" value="Salvar Alteração" />
+                    </div>
+                </div>
+            </form>
+            <table id="gridBenef" class="table"></table>
+        </div>
+    </div>
+</div>
+
+@*<script src="~/Scripts/jquery-3.4.1.min.js"></script>*@
+@*<script src="~/Scripts/jquery.inputmask.min.js"></script>*@
+@*<script>
+    $(document).ready(function () {
+        $("#CPF").inputmask("999.999.999-99"); // Aplicando a máscara de CPF
+    });
+</script>*@
+
+@*<script>
+    var objBenef = @Html.Raw(Json.Encode(Model));
+</script>*@

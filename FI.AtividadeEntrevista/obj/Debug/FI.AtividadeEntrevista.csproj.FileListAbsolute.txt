@@ -1,0 +1,80 @@
+D:\Projetos\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.dll
+D:\Projetos\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.pdb
+D:\Projetos\TesteFuncao\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.AssemblyReference.cache
+D:\Projetos\TesteFuncao\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.CoreCompileInputs.cache
+D:\Projetos\TesteFuncao\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.dll
+D:\Projetos\TesteFuncao\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.pdb
+D:\Projetos\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\csc.exe
+D:\Projetos\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\csc.exe.config
+D:\Projetos\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\csc.rsp
+D:\Projetos\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\csi.exe
+D:\Projetos\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\csi.exe.config
+D:\Projetos\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\csi.rsp
+D:\Projetos\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projetos\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projetos\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projetos\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projetos\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projetos\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projetos\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\Projetos\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projetos\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projetos\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\Projetos\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\Microsoft.Managed.Core.targets
+D:\Projetos\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projetos\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\System.Buffers.dll
+D:\Projetos\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\Projetos\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\System.Memory.dll
+D:\Projetos\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\System.Numerics.Vectors.dll
+D:\Projetos\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\Projetos\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projetos\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+D:\Projetos\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Projetos\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\vbc.exe
+D:\Projetos\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\vbc.exe.config
+D:\Projetos\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\vbc.rsp
+D:\Projetos\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\VBCSCompiler.exe
+D:\Projetos\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\Projetos\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projetos\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projetos\TesteFuncao\FI.AtividadeEntrevista\obj\Debug\FI.Ativi.A54B2C84.Up2Date
+C:\Program Files\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.dll
+C:\Program Files\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.pdb
+C:\Program Files\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\csc.exe
+C:\Program Files\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\csc.exe.config
+C:\Program Files\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\csc.rsp
+C:\Program Files\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\csi.exe
+C:\Program Files\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\csi.exe.config
+C:\Program Files\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\csi.rsp
+C:\Program Files\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Program Files\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Program Files\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Program Files\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Program Files\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Program Files\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Program Files\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Program Files\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Program Files\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Program Files\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Program Files\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\Microsoft.Managed.Core.targets
+C:\Program Files\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Program Files\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\System.Buffers.dll
+C:\Program Files\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Program Files\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\System.Memory.dll
+C:\Program Files\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\System.Numerics.Vectors.dll
+C:\Program Files\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Program Files\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Program Files\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+C:\Program Files\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Program Files\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\vbc.exe
+C:\Program Files\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\vbc.exe.config
+C:\Program Files\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\vbc.rsp
+C:\Program Files\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Program Files\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Program Files\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Program Files\TesteFuncao\FI.AtividadeEntrevista\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Program Files\TesteFuncao\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.AssemblyReference.cache
+C:\Program Files\TesteFuncao\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.CoreCompileInputs.cache
+C:\Program Files\TesteFuncao\FI.AtividadeEntrevista\obj\Debug\FI.Ativi.A54B2C84.Up2Date
+C:\Program Files\TesteFuncao\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.dll
+C:\Program Files\TesteFuncao\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.pdb
